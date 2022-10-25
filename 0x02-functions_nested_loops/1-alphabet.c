@@ -10,6 +10,6 @@ for (letter 'a'; letter <= 'z'; letter++)
 
 _putchar(letter);
 
-__putchar('\n');
+_putchar('\n');
 
 }
